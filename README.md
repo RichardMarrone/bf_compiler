@@ -1,4 +1,4 @@
-An interpreter, transpiler, and compiler for the BrainF*** programming language
+An interpreter, transpiler, and compiler for the [BrainF***](https://en.wikipedia.org/wiki/Brainfuck) programming language
 
 ## Running
 This repo offers 3 ways to run a BF program:
